@@ -1,0 +1,6 @@
+DECLARATION OF INTEREST ACCRUAL FROZEN UNDER PROCLAMATION 20-49
+DECLARATION OF FROZEN INTEREST
+I, {Me}, being first duly sworn on oath, deposes and says:
+I am the legal assistant to Plaintiff's counsel, and oversee the creation and mailing of all garnishment related documents. The amount of judgment interest that accrued at the interest rate of {IntR}% on the judgment entered on {DtJ}, up to the date that Proclamation 20-49 was enacted is ${IntA}. The interest accrual on this judgment was frozen on April 15, 2020. Interest will begin accumulating again on June 1, 2020, when the mandates from Proclamation 20-49 in regards to interest on judgment accounts was not extended.
+The undersigned does hereby declare under penalty of perjury of the laws of the State of Washington the foregoing is true and correct and was executed on the date below.
+{Mesigblock}

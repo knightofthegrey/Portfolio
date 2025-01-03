@@ -1,0 +1,6 @@
+DECLARATION REGARDING INTEREST
+DECLARATION REGARDING INTEREST
+The undersigned, under penalty of perjury under Washington law, declares the following to be true and correct:
+I am the Legal Assistant for the plaintiff and make this declaration in support of entry of extended judgment. Interest was awarded on the judgment, as prayed, at the rate of 12% per annum, post-judgment. The post-judgment interest accured at that rate from {DtJ}, (date of judgment), through April 15th, 2020, and totals ${IntA}. Under Proclamation 20-49 accrual of judgment interest was then frozen from 4/15/2020 until 6/1/2020 when the mandate in Proclamation 20-49 regarding judgment interest was not extended. From June 1, 2020, until {DtRun} interest in the amount of ${IntPost} has accrued at 12% per annum, bringing the total interest accrual to ${j/intA}. As the underlying judment awards interest, an award of interest in this amount is appropriate on the extended judgment.
+Certified true and correct under penalty of perjury of the laws of the State of Washington.
+{Mesigblock}

@@ -1,0 +1,8 @@
+DECLARATION FOR ORDER GRANTING ADDITIONAL TEN YEARS TO EXECUTE ON AND ENFORCE JUDGMENT
+DECLARATION FOR EXTENSION
+I, {Me}, certify under penalty of perjury under the laws of the State of Washington that the following is true:
+I am employed by Merchants Credit Corporation, and I am authorized to make this statement on its behalf.
+A judgment was entered in the {Level} Court of {County} County{DIVISION?} on {DtJ}.
+Merchants Credit Corporation is the current holder of said judgment. Merchants Credit Corporation will deliver with this motion to the Clerk of this Court a filing fee in the sum of ${ExtFee} as required by RCW 6.17.020.
+The judgment remains wholly or partially unsatisfied. This motion is made within 90 days of the expiration of the ten year period for enforcing and collecting on said judgment.
+{Mesigblock}

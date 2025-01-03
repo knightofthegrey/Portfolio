@@ -1,0 +1,25 @@
+ORDER GRANTING ADDITIONAL TEN YEARS TO EXECUTE ON AND ENFORCE JUDGMENT
+ORDER OF EXTENSION
+The Court, having this day reviewed the files and records herein, and the Application for an Order Extending Judgment, finds that a judgment was entered herein on {DtJ}, that the application is being made within ninety (90) days of the expiration date of {DtExp}, and that the filing fee is included below in the curren updated judgment summary.
+{SsBlock}
+{Unindblock}
+{Center}{Bold}SUMMARY
+{SpaceLine}|Judgment Creditor:|Merchants Credit Corporation
+{SpaceLine}|Attorney for Judgment Creditor:|Michael S. O'Meara
+{SpaceLine}|Judgment Debtors:|{LongDef}
+{SpaceLine}|Original Judgment Amount:|{princA}
+{SpaceLine}|Post Judgment Interest:|{j/intA}
+{SpaceLine}|Post Judgment Costs and Fees:|{currentCosts}
+{SpaceLine}|Total Sums Paid:|{totalP}
+{SpaceLine}|Taxable Costs and Fees on Extension:|{ExtFee}
+{SpaceLine}|Balance Owing on Judgment:|{ExtBalance}
+{Unindblock}
+{SsBlock}
+Original judgment balances, fees, and costs, shall bear interest at 9% per annum.
+THIS MATTER having come before the undersigned on this date upon the application of MERCHANTS CREDIT CORPORATION, The assignee or current holder of the judgment interest against the Defendant(s) on {DtJ}, for an additional ten years during which execution may be issued to collect its judgment, and the court being fully advised in the premises, now, therefore, it is hereby
+{Break}
+{Center}{Bold}ORDER
+ORDERED, ADJUDGED, and DECREED that the plaintiff, Merchants' Credit Corporation, is granted an additional ten years to execute, enforce, and collect the balance due on said judgment, or otherwise enforce the same.
+{Judgesigblock}
+
+{Mikesigblock}

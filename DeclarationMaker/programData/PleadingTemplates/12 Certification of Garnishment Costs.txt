@@ -1,0 +1,13 @@
+CERTIFICATION OF GARNISHMENT COSTS
+CERTIFICATION OF GARNISHMENT COSTS
+The undersigned hereby states under penalty of perjury under the laws of the State of Washington that the actual costs for the garnishment served on {DtSvc} are as follows:
+{SsBlock}
+{SpaceLine}|Filing Fee:|${FileC}
+{SpaceLine}|Service and Affadavit Fee:|${SvcxC}
+{SpaceLine}|Postage/Certified Mailing costs:|${MailC}
+{SpaceLine}|Answer Fee/s (if applicable):|$0.00
+{SpaceLine}|Garnishment Attorney Fees:|${AttyC}
+{SpaceLine}|Other:|${ParteC}
+{SpaceLine}|Total Garnishment Costs:|${TotalC}
+{SsBlock}
+{Mesigblock}

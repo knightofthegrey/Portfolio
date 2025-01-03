@@ -1,0 +1,9 @@
+MOTION FOR AMENDMENT OF PARTIES NAME AND CAPTION
+{ACTION}MOTION FOR AMENDMENT OF CAPTION
+{Unindblock}
+{Center}{Bold}MOTION
+{Unindblock}
+MERCHANTS CREDIT CORPORATION, ("MCA" or "Plaintiff"), by its Attorneys, does hereby move the court for entry of an Order amending the name(s) of the parties, as well as the Case Caption.
+1. The Defendant's name in the original and subsequent pleadings was designated as: {DefS}
+2. His/Her true name has been discovered to be: {INSERT NAME}
+{Mikesigblock}

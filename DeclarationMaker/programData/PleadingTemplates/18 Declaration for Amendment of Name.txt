@@ -1,0 +1,5 @@
+DECLARATION FOR AMENDMENT OF PARTIES NAME AND CAPTION
+{Action}DECLARATION FOR AMENDMENT OF CAPTION
+I, {Me}, am a Legal Case Manager for the Legal Department at Merchants Credit Corporation, over the age of 18 years, and otherwise competent to be a witness herein.  I have reviewed the foregoing motion, have personal knowledge of the facts contained therein, adopt the same as my own personal statements and believe them to be true and correct.
+I now declare under penalty of perjury under the laws of the State of Washington that the foregoing is true and correct to the best of my knowledge, information and belief.
+{Mesigblock}

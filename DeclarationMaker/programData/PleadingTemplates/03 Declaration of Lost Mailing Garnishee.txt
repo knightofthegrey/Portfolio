@@ -1,0 +1,6 @@
+DECLARATION OF MAILING LOST MAIL RETURN WRIT OF GARNISHMENT
+DECLARATION OF LOST MAIL
+The undersigned, being first duly sworn on oath, states:
+On {DtMail}, a true and correct copy of the Writ of Garnishment, and one answer form to said Writ of Garnishment, were mailed by certified mail number {MailnoG}, return receipt requested to the Garnishee Defendant at {AddrG}.
+The undersigned does hereby declare under penalty of perjury of the laws of the State of Washington, the foregoing is true and correct and was executed on the date below at Redmond, Washington.
+{Mesigblock}

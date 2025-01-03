@@ -1,0 +1,11 @@
+INSERT PLEADING TITLE HERE
+INSERT SHORT TITLE HERE
+I, {Me}, being first duly sworn on oath deposes and says:
+(INSERT PLEADING BODY HERE)
+Certified true and correct under penalty of perjury of the laws of the State of Washington.
+Dated at Redmond, Washington on this {DtDc}.
+{Unindblock}
+{SsBlock}
+____________________________
+{Me}
+Legal Case Manager

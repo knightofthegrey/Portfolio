@@ -1,0 +1,36 @@
+NOTICE OF WITHDRAWAL AND SUBSTITUTION OF ATTORNEY
+{ACTION}NOTICE OF WITHDRAWAL AND SUBSTITUTION
+{Unindblock}
+{SsBlock}
+TO: THE CLERK OF THE COURT
+AND TO: ALL PARTIES OF RECORD
+{SsBlock}
+{Unindblock}
+Please take notice that MICHAEL S. O'MEARA, WSBA #41502 has substituted as counsel in the place and stead of Jason L Woehler, WSBA #27658, Robert S. Freidman WSBA #1854 or Erik S Bakke, Sr. WSBA #18476 all of whom no longer represent and have withdrawn as counsel for plaintiff, MERCHANTS CREDIT CORPORATION, and requests the court to substitute MICHAEL S. O'MEARA, WSBA #41502 as counsel for plaintiff. All further pleadings and papers herein should be served upon said attorney at the address below stated:
+{SsBlock}
+Michael S. O'Meara
+O'Meara Law Office, P.S.
+At Merchants Credit Corporation
+2245 152nd Avenue Northeast
+Redmond, WA 98052
+Phone: 425-643-2613
+{SsBlock}
+{Mikesigblock}
+{Break}
+
+
+
+{Center}DECLARATION OF SERVICE
+{Center}______________________
+I certify that on {DtDc}, I caused to be served in the matter indicated below a true and accurate copy of the Notice of Withdrawal and Substitution of Attorney upon the following:
+{AddrBlock}
+{SsBlock}
+{Unindblock}
+By:
+{Unindblock}
+[X] U.S. Mail
+[ ] Facsimile
+[ ] Hand Delivered via ______________
+[ ] E-Mail pursuant to electronic service agreement
+I declare under penalty of perjury of the laws of the State of Washington that the foregoing is true and correct to the best of my knowledge and belief:
+{Mesigblock}

@@ -1,0 +1,9 @@
+MOTION FOR JUDGMENT FOR COSTS ON WRIT OF GARNISHMENT (RCW 6.27.2050(3))
+MOTION FOR JUDGMENT FOR COSTS
+MERCHANTS CREDIT CORPORATION by its Attorney, Michael S. O'Meara, applies to this court for a Judgment for Costs on Writ of Garnishment where Defendant maintained employment with garnishee at time writ was issued, pursuant to RCW 6.27.250(3), as follows:
+(1) The Writ of Garnishment previously issued was properly served on garnishee as indicated by the declaration of service/mailing filed herein;
+(2) The garnishee Responded to the writ; they sent funds in the amount of ${Fnds} directly to the plaintiff without completing the full answer process;
+(3) It appears from the garnishee's response that the defendant maintained employment at the time the Writ was issued; and
+(4) There is no unresolved exemption claim nor any dispute or controversion pending.
+I certify under penalty of perjury under the laws of the State of Washington that the foregoing is true and correct.
+{Mikesigblock}

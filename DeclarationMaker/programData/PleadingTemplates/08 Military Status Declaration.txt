@@ -1,0 +1,7 @@
+MILITARY STATUS DECLARATION
+MILITARY STATUS DECLARATION
+I, {Me}, being first duly sworn on oath deposes and says:
+That on {DtMil}, the DMDC Military Verification web site, which is hosted by the Director of the Department of Defense Human Resources Activity Defense Manpower Data Center (DMDC), was accessed. According to the information obtained from the DMDC Military Verification web site, the defendant(s) are not active member(s) of the military. No information has been found to indicate that defendant(s) are dependents of an active member of the military, and declarant therefore alleges that they are not. A copy of the DMDC print-out is attached.
+On {DtMail}, Notice Regarding Military Status (RCW 38.42.050) was mailed to the defendant(s), and a Declaration of Mailing is filed herewith. Defendant(s) failed to respond to the notice and, therefore, should be presumed not a dependent of an active duty member of the National Guard.
+Certified true and correct under penalty of perjury of the laws of the State of Washington.
+{Mesigblock}

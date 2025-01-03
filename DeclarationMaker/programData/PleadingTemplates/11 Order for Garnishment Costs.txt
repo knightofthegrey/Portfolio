@@ -1,0 +1,21 @@
+ORDER FOR JUDGMENT FOR COSTS ON WRIT OF GARNISHMENT
+ORDER FOR JUDGMENT FOR COSTS
+{SsBlock}
+JUDGMENT SUMMARY
+{SpaceLine}|Judgment Creditor:|Merchants Credit Corporation
+{SpaceLine}|Judgment Debtor:|{DefS}	     
+{SpaceLine}|Garnishee:|{Garnishee}          
+{SpaceLine}|Garnishment Attorney Fees:|${AttyC}
+{SpaceLine}|Amount of Taxable Costs:|${SubtotalC}
+{SpaceLine}|Total Judgment:|${TotalC}
+{SpaceLine}|Judgment to bear interest at:|{IntR}%
+{SpaceLine}|Attorney for Judgment Creditor:|Michael S. O'Meara
+{SsBlock}
+
+In this particular case, garnishee has sent the Plaintiff the sum of ${Fnds}. Plaintiff has incurred garnishment costs in the following amounts: Writ issuance fee ${FileC}, service of process ${SvcC}, postage ${MailC}, ex-parte fee ${ParteC}, and an attorney fee of ${AttyC}.
+ORDER
+ORDERED, ADJUDGED AND DECREED, that plaintiff is awarded judgment against defendant named above for its garnishment costs and fees in the total sum of ${TotalC}, in accordance with the Judgment Summary set forth above.
+{Unindblock}
+{Judgesigblock}
+
+{Mikesigblock}

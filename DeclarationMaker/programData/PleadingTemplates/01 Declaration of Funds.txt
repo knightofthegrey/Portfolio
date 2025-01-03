@@ -1,0 +1,6 @@
+DECLARATION OF FUNDS RECEIVED ON WRIT OF GARNISHMENT
+DECLARATION OF FUNDS RECEIVED
+I, {Me}, being first duly sworn on oath deposes and says:
+The garnishee has sent monies in the amount of ${Fnds} directly to the Plaintiff without completing the answer process, and refuses to answer further. Plaintiff believes that garnishee has withheld correctly, but plaintiff accordingly cannot obtain a conventional Judgment on Answer of Garnishee Defendant.  Plaintiff desires to partially satisfy the judgment against defendant, and tax its garnishment costs, in order to secure the issuance of another writ of garnishment. 
+Certified true and correct under penalty of perjury of the laws of the State of Washington.
+{Mesigblock}

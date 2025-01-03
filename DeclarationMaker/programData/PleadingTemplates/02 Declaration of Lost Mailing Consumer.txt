@@ -1,0 +1,7 @@
+DECLARATION OF MAILING LOST MAIL RETURN OF WRIT OF GARNISHMENT
+DECLARATION OF LOST MAIL
+The undersigned, being first duly sworn on oath, states:
+That on {DtMail}, in compliance with RCW 6.27.130, declarant mailed to the Judgment debtor named above, by certified mail number {MailnoD}, return receipt requested, to the last known post office address, a copy of the Defendant/s Exemption Rights and Claim Form, Application for Garnishment and Writ of Garnishment. They were deposited in the mail of the United States of America, certified mail to {AddrD}.
+To date the signed Certified Receipt or the returned Certified Envelope has not been returned to the Plaintiff.
+The undersigned does hereby declare under penalty of perjury of the laws of the State of Washington the foregoing is true and correct and was executed on the date below at Redmond, Washington.
+{Mesigblock}

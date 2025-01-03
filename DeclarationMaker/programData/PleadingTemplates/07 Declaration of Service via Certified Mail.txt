@@ -1,0 +1,16 @@
+DECLARATION OF SERVICE OF WRIT OF GARNISHMENT VIA CERTIFIED MAIL
+DECLARATION OF SERVICE
+I, {Me}, being first duly sworn on oath deposes and says:
+That on {DtMail}, a true and correct copy of the Writ of Garnishment, and one answer form to said Writ of Garnishment, were mailed by certified mail, return receipt requested, to the Garnishee Defendant at {AddrG}.
+That on {DtSvc}, the above-mentioned envelope was accepted by the garnishee, and proof of such is attached hereto.
+In compliance with RCW 6.27-040, declarant further states that on the date set forth above, declarant mailed to the judgment debtor named above, by certified mail, return receipt requested, addressed {AddrD} which is the last known post office address for the judgment debtor, a copy of the judgment creditor's declaration submitted in the application for the writ, the writ, and the notice and claim form required by RCW 6.27.130 (.140).
+The costs of service are as follows:
+{Unindblock}
+{SsBlock}
+Postage: ${Svcst1} for Certified Mailing to Garnishee
+	    ${Svcst2} for Certified Mailing to Defendant
+	    ${Svcst3} for additional postage for mailing
+	    ${Svcst4} Total
+{SsBlock}
+{Unindblock}
+{Mesigblock}
